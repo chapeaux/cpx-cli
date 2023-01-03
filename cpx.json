@@ -1,0 +1,5 @@
+{
+    "apps": [
+        {"chooser": "./apps/chooser.ts"}
+    ]
+}
